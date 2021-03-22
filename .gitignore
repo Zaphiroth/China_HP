@@ -1,0 +1,10 @@
+
+.Rproj.user/
+
+*.csv
+
+*.zip
+
+.Rhistory
+
+*.7z
